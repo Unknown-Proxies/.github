@@ -4,7 +4,7 @@
 > Premium proxy solutions for automation professionals and scraping specialists
 
 ## Who We Are
-Unknown Proxies delivers enterprise-grade proxy infrastructure specifically engineered for web scraping, automated purchasing, price monitoring, and retail automation. We serve over 250,000 customers who demand reliability, performance, and expert support for their critical automation workflows.
+Unknown Proxies delivers enterprise-grade proxy infrastructure specifically engineered for web scraping, automated purchasing, price monitoring, and retail automation. We have served over 250,000 customers who demand reliability, performance, and expert support for their critical automation workflows.
 
 ## Our Proxy Solutions
 
@@ -29,7 +29,7 @@ Our proxy infrastructure is purpose-built for automated software, retail bots, a
 With deep knowledge in retail automation, ticket acquisition, and data collection, our team provides technical guidance that generic proxy providers simply can't match.
 
 ### 💬 **24/7 In-House Support**
-Real automation experts, not outsourced tier-1 support. Our team understands your use cases and can troubleshoot complex automation challenges in real-time.
+Real automation experts, not outsourced support. Our team understands your use cases and can troubleshoot complex automation challenges in real-time.
 
 ### 🔒 **Ethical & Compliant**
 All residential IPs are ethically sourced with full user consent. We maintain strict compliance standards while delivering the performance your operations require.
@@ -40,7 +40,7 @@ All residential IPs are ethically sourced with full user consent. We maintain st
 - **Price Monitoring** - Real-time competitive intelligence across retail platforms
 - **Retail Automation** - Automated purchasing on Walmart, Target, Amazon, and specialty retailers
 - **Ticket Acquisition** - High-performance proxies for concert and event ticket purchases
-- **Social Media Management** - Multi-account management with geo-specific IP assignments
+- **Social Media Management** - Multi-account management with geo-specific IP addresses
 
 ## Getting Started
 
