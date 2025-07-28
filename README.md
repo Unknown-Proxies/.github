@@ -1,4 +1,4 @@
-<img width="3840" height="2160" alt="unknownfacebox" src="https://github.com/user-attachments/assets/cfd1d281-6af0-49a5-be8a-c40286304ff5" />
+<img width="3840" height="1000" alt="unknownfacebox" src="https://github.com/user-attachments/assets/cfd1d281-6af0-49a5-be8a-c40286304ff5" />
 
 # Unknown Proxies
 > Premium proxy solutions for automation professionals and scraping specialists
